@@ -1,0 +1,4 @@
+proxy: https://goproxy.cn
+# replacements:
+  # github.com/hbstack/docs -> ../../../docs,
+  # github.com/hbstack/docs/modules/doc-nav -> ../../../docs/modules/doc-nav
