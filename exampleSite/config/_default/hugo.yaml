@@ -1,0 +1,69 @@
+baseURL: https://theme-cards.hbstack.dev/
+title: HB Cards Theme
+# Copyright, the {year} is the placeholder of this year.
+copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
+enableRobotsTXT: true
+timeout: 120s
+enableEmoji: true
+
+title_sections: true # when false, remove the sections from the title.
+title_sections_depth: 0 # the depth of sections on the title.
+title_sections_depth_dir: end # when start, the depth is counting from the root sections.
+
+permalinks:
+  blog: /blog/:year/:month/:title
+  news: /news/:year/:month/:title
+
+outputs:
+  home:
+    - HTML
+    - Offline        # required by PWA module for displaying the offline pages.
+    - RSS
+    - SearchIndex    # required by search module.
+    - WebAppManifest # required by PWA module to make your site installable.
+
+taxonomies:
+  authors: authors       # multiple authors.
+  tags: tags
+  categories: categories
+  series: series
+
+build:
+  writeStats: true # required by PurgeCSS.
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    lineNos: true
+    lineNumbersInTable: false
+
+# see https://gohugo.io/content-management/related/#configure-related-content
+related:
+  includeNewer: true
+  indices:
+  - name: keywords
+    weight: 100
+  - name: tags
+    weight: 80
+  - name: categories
+    weight: 60
+  - name: series
+    weight: 60
+  - name: authors
+    weight: 10
+  - name: date
+    weight: 10
+  threshold: 10 # for testing, increase it to suit your case.
+  toLower: false
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO
+      - CI$
+      - PWD

@@ -1,0 +1,16 @@
+<div class="row row-cols-2 g-3{{ cond (not .HasPrev) ` justify-content-end` `` }}">
+  {{- with .Prev }}
+    <div class="col">
+      <a class="hb-module d-block w-100 text-decoration-none text-center" href="{{ .URL }}">
+        {{ i18n "pagination_prev" }}
+      </a>
+    </div>
+  {{- end }}
+  {{- with .Next }}
+    <div class="col">
+      <a class="hb-module d-block w-100 text-decoration-none text-center" href="{{ .URL }}">
+        {{ i18n "pagination_next" }}
+      </a>
+    </div>
+  {{- end }}
+</div>

@@ -1,0 +1,120 @@
+description: The cards theme template of HB (Hugo Bootstrap) Framework.
+
+hb:
+  # js_bundle_name: main # the JS bundle name.
+  # css_bundle_name: main # the CSS bundle name.
+  header:
+    brand: HB # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      github: hbstack
+      # twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
+  footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      _color: true # when false, remove the color of social icons.
+      github: hbstack
+      twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
+  blog:
+    full_width: false # when true, the blog layout takes full width.
+    sidebar:
+      profile:
+        # title: Profile title other than site title.
+        # description: Profile description other than site description.
+        avatar_size: 100
+        company: COMPANY
+        location: Earth
+        socials:
+          github: hbstack
+          mastodon: https://techhub.social/@hbstack
+          rss: true
+      posts:
+        recent_count: 5 # the number of recent posts.
+        featured_count: 5 # the number of featured posts.
+      taxonomies:
+        count: true # whether to show the number of posts associated to the item.
+        limit: 10 # the maximum number of the item.
+    paginate: 12 # paginate.
+    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    # post_thumbnail: false # whether to show the thumbnails.
+    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    home: # homepage settings.
+      # taxonomies: false # remove the taxonomies stat from the homepage.
+      featured_posts: 5 # the number of the featured posts.
+      pinned_posts_position: "list"
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+        - news
+    giscus:
+      repo: hbstack/theme-cards
+      repo_id: R_kgDOK1LmSQ
+      category_id: DIC_kwDOK1LmSc4CbdiM
+  docs:
+    giscus:
+      repo: hbstack/theme-cards
+      repo_id: R_kgDOK1LmSQ
+      category_id: DIC_kwDOK1LmSc4CbdiM
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: hbstack/theme-cards
+      branch: main
+      subpath: exampleSite
+  # gallery:
+  #   thumbnail_size: "x640"
+  google_fonts:
+    families:
+      - name: Lato
+
+seo:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
+    icon: images/logo.png # use logo as favicon.
+
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'HB Theme'
+
+# see https://hugomods.com/en/docs/search/#site-parameters
+search:
+  stall_threshold: 300
+  min_match_char_length: 2
+  case_sensitive: false
+  # shortcut_search: ["/"]
+
+mermaid:
+  # replace it with other CDNs or self-hosted URLs.
+  js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
+        hb-blog-sidebar:
+          cacheable: true
+          weight: 4
+    # change the order of sidebar modules.
+    hb-blog-sidebar-taxonomies:
+      hooks:
+        hb-blog-sidebar:
+          weight: 3
+    hb-blog-sidebar-posts:
+      hooks:
+        hb-blog-sidebar:
+          weight: 2
