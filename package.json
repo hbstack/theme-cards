@@ -1,0 +1,27 @@
+{
+  "name": "hb-mod-theme-cards",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/theme-cards.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/theme-cards/issues"
+  },
+  "homepage": "https://github.com/hbstack/theme-cards",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "prettier": "^3.0.0",
+    "prettier-plugin-go-template": "^0.0.15",
+    "stylelint": "^15.1.0",
+    "stylelint-config-standard-scss": "^11.0.0",
+    "stylelint-scss": "^5.0.0",
+    "ts-standard": "^12.0.2"
+  },
+  "scripts": {
+    "lint": "npm run eslint && npm run stylelint",
+    "eslint": "ts-standard",
+    "stylelint": "npx stylelint \"**/*.scss\""
+  }
+}
