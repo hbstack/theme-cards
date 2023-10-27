@@ -1,0 +1,20 @@
+name = "HB Cards Theme"
+license = "MIT"
+licenselink = "https://github.com/hbstack/theme-cards/blob/main/LICENSE"
+description = "HB cards style theme for building fast, responsive, modern and modular static websites."
+homepage = "https://github.com/hbstack/theme-cards"
+demosite = "https://theme-cards.hbstack.dev/"
+tags = [
+    "archive",
+    "blog",
+    "bootstrap",
+    "dark",
+    "dark mode",
+    "multilingual",
+    "personal",
+    "responsive"
+]
+features = ["search", "flexible", "modular"]
+[author]
+name = "HB Framework Authors"
+homepage = "https://hbstack.dev/"

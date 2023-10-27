@@ -1,0 +1,22 @@
+pwa:
+  caches:
+    font:
+      strategy: network-first
+    image:
+      strategy: network-first
+    script:
+      strategy: network-first
+    style:
+      strategy: network-first
+
+hugopress:
+  modules:
+    pwa:
+      disable: true
+
+decap_cms:
+  backend:
+    name: git-gateway
+  local_backend:
+    url: http://localhost:8081/api/v1
+    allowed_hosts: ['localhost', '127.0.0.1']

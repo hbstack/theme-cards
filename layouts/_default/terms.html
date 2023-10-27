@@ -1,0 +1,28 @@
+{{- define "main" }}
+<div class="hb-blog-main-container">
+  <div class="hb-blog-main">
+    {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-main-begin" "Page" .) }}
+    <div class="hb-terms row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mb-3">
+      {{- range $i, $page := .Data.Pages }}
+        {{- $totalPages := len .Pages }}
+        <div class="col">
+          <a
+            class="hb-term card-body hb-module py-4 h-100 d-flex flex-column justify-content-center align-items-center text-decoration-none text-truncate"
+            href="{{ .RelPermalink }}"
+            title="{{ .Title }}">
+            <span class="hb-term-count ms-1 mt-3 h5 mb-3 text-bg-secondary px-2 py-1 rounded">
+              {{ $totalPages }}
+            </span>
+            <div class="hb-term-title mb-0 h5 text-center text-wrap">{{ .Title }}</div>
+            {{- with .Description }}
+            <div class="hb-term-desc mb-0 text-body-secondary text-center text-wrap mt-3">{{ . }}</div>
+            {{- end }}
+          </a>
+        </div>
+      {{- end }}
+    </div>
+    {{ partial "hugopress/functions/render-hooks" (dict "Name" "hb-blog-main-end" "Page" .) }}
+  </div>
+  {{ partial "hb/modules/blog/sidebar" . }}
+</div>
+{{- end -}}
