@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "strictNullChecks": true
+  },
+  "include": ["assets/**/*"],
+  "exclude": ["node_modules"]
+}
