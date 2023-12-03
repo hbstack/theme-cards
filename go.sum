@@ -20,6 +20,7 @@ github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L
 github.com/hbstack/carousel v0.2.4/go.mod h1:AchKlXiqYNZouE3Ee/VSSQle2FUZV5CJgTnPBFI7Gj0=
 github.com/hbstack/docs v0.11.1 h1:jxN21spvHQk5+KMj4c7sWls+o3QhHoX6rwyCFe0wEJ8=
 github.com/hbstack/docs v0.11.1/go.mod h1:vzdSxwSyCPWZUSXbLOojFd5YhZDWceyfbSRjLVkvEDs=
+github.com/hbstack/docs v0.11.2/go.mod h1:lhMS1RUegW09gWtwJNr9svMjuzREAaFB1OFwusWoZEg=
 github.com/hbstack/footer v0.2.5 h1:SBelvFYo8/IDPisprlZxEaR70PXcoHfjL+2mm1ir6/A=
 github.com/hbstack/footer v0.2.5/go.mod h1:L0ZYdYRROlGUGLRA9QchkYeByHIff/EU4WKRdAUW+E8=
 github.com/hbstack/footer v0.2.7 h1:JJgBZWJyB7UzXSifH2KMFd9ma5yLL3m/pSroMaX+kc4=
