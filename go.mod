@@ -10,7 +10,7 @@ require (
 	github.com/hbstack/blog/modules/post-nav v0.3.5 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/carousel v0.2.4 // indirect
-	github.com/hbstack/docs v0.11.1 // indirect
+	github.com/hbstack/docs v0.11.2 // indirect
 	github.com/hbstack/footer v0.2.8 // indirect
 	github.com/hbstack/hb v0.7.2 // indirect
 	github.com/hbstack/header v0.12.2 // indirect
