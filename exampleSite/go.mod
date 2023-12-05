@@ -62,7 +62,7 @@ require (
 	github.com/hbstack/socials v0.9.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.1.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 // indirect
-	github.com/hbstack/theme-cards v0.0.0-20231204204457-03a50ccdbde5 // indirect
+	github.com/hbstack/theme-cards v0.0.0-20231204223918-04c2a517f4fc // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.12 // indirect
 	github.com/hugomods/base v0.4.0 // indirect
