@@ -7,6 +7,13 @@
 
 The cards theme of [HB Framework](https://hbstack.dev/), live demo: https://theme-cards.hbstack.dev/.
 
+## Documentations
+
+| English | 简体中文 |
+| --- | --- |
+| [Install from scratch](https://theme-cards.hbstack.dev/docs/install-from-scratch/) | [从头开始安装](https://theme-cards.hbstack.dev/zh-hans/docs/install-from-scratch/) |
+| [Migrate from starter theme](https://theme-cards.hbstack.dev/docs/migrate-from-starter-theme/) | [从新手模板迁移](https://theme-cards.hbstack.dev/zh-hans/docs/migrate-from-starter-theme/) |
+
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/hbstack/theme-cards/main/images/screenshot.png)
