@@ -34,6 +34,12 @@ authors:
 
 We offers an example site for getting started with this theme.
 
+{{< bs/alert danger >}}
+{{< markdownify >}}
+Please run these commands from [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) or a Linux terminal such as WSL or Git Bash.
+{{< /markdownify >}}
+{{< /bs/alert >}}
+
 ## Requirements
 
 - Go
@@ -62,9 +68,15 @@ cd mysite
 
 ## Tweak `go.mod`
 
+{{< bs/alert >}}
+{{< markdownify >}}
+This guide uses `sed` command to edit the file, please feel free to open and edit the `go.mod` with your favorite editor.
+{{< /markdownify >}}
+{{< /bs/alert >}}
+
 ### Replace Module Path
 
-The module path is the identifier of your site, which typically is your repo URL, take `github.com/user/repo` as an example.
+The module path is the identifier of your site, which typically is your repo URL, take `github.com/user/repo` as an example, you'll need to replace the `module github.com/hbstack/theme-cards/exampleSite` with `module github.com/user/repo`.
 
 ```sh
 sed -i '1s/.*/module github.com\/user\/repo/' go.mod
@@ -83,6 +95,10 @@ sed -i '/^replace/d' go.mod
 ```sh
 npm ci
 ```
+
+## Hugo Module Proxy (Optional)
+
+A [Hugo module proxy](https://hugomods.com/blog/2023/04/go-and-hugo-proxy-servers/) is required when the default proxy isn't accessible from your location, i.e. China.
 
 ## Preview Locally
 

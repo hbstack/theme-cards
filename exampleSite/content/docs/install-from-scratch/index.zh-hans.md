@@ -34,6 +34,12 @@ authors:
 
 我们提供了一个示例站点以方便你快速入门该主题。
 
+{{< bs/alert danger >}}
+{{< markdownify >}}
+请于 [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) 或者 Linux 终端运行以下命令，如 WSL 或 Git Bash。
+{{< /markdownify >}}
+{{< /bs/alert >}}
+
 ## 环境要求
 
 - Go
@@ -62,9 +68,15 @@ cd mysite
 
 ## 调整 `go.mod`
 
+{{< bs/alert >}}
+{{< markdownify >}}
+本文利用 `sed` 命令进行文件编辑，请随意使用你喜欢的编辑器打开和修改 `go.mod`。
+{{< /markdownify >}}
+{{< /bs/alert >}}
+
 ### 替换模块路径
 
-模块路径是站点的标识，其一般为仓库 URL，这里以 `github.com/user/repo` 为例。
+模块路径是站点的标识，其一般为仓库 URL，这里以 `github.com/user/repo` 为例，则需要将 `module github.com/hbstack/theme-cards/exampleSite` 替换为 `module github.com/user/repo`。
 
 ```sh
 sed -i '1s/.*/module github.com\/user\/repo/' go.mod
@@ -83,6 +95,10 @@ sed -i '/^replace/d' go.mod
 ```sh
 npm ci
 ```
+
+## Hugo 模块代理（可选）
+
+当你的所在地区（比如国内）无法访问默认的代理时，则需要设置[Hugo 模块代理](https://hugomods.com/blog/2023/04/go-and-hugo-proxy-servers/)。
 
 ## 本地预览
 
