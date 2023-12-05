@@ -1,7 +1,7 @@
 ---
 title: "数学排版"
 date: 2023-11-26T16:36:24+08:00
-draft: true
+draft: false
 description: "本文提供了一些通过 KaTeX 进行数学排版的示例。"
 noindex: false
 featured: true

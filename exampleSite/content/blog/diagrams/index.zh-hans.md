@@ -1,7 +1,7 @@
 ---
 title: "图表"
 date: 2023-11-26T16:36:24+08:00
-draft: true
+draft: false
 description: "本文将举例说明如何使用 Mermaid 制作图表。"
 noindex: false
 featured: true

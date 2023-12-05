@@ -1,7 +1,7 @@
 ---
 title: "Math Typesetting"
 date: 2023-11-26T16:36:24+08:00
-draft: true
+draft: false
 description: "This article offers some examples about math typesetting via KaTeX."
 noindex: false
 featured: true
