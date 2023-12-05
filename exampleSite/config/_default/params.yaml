@@ -68,9 +68,9 @@ hb:
       subpath: exampleSite
   # gallery:
   #   thumbnail_size: "x640"
-  # google_fonts:
-    # families:
-      # - name: Lato
+  google_fonts:
+    families:
+      - name: Lato
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
