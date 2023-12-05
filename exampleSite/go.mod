@@ -41,7 +41,7 @@ require (
 	github.com/hbstack/footer v0.2.8 // indirect
 	github.com/hbstack/footer/modules/socials v0.2.5 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
-	github.com/hbstack/google-fonts v0.1.1-0.20231205031405-cd6d9ebfe9e2 // indirect
+	github.com/hbstack/google-fonts v0.1.1-0.20231202172313-c45cecfeb304 // indirect
 	github.com/hbstack/hb v0.7.2 // indirect
 	github.com/hbstack/header v0.12.2 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.23 // indirect
