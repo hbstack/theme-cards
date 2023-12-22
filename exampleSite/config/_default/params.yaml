@@ -3,6 +3,7 @@ description: The cards theme template of HB (Hugo Bootstrap) Framework.
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
+  full_width: false # when true, the layout takes full width globally.
   header:
     brand: HB # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
@@ -21,7 +22,6 @@ hb:
       rss: true
       mastodon: https://techhub.social/@hbstack
   blog:
-    full_width: false # when true, the blog layout takes full width.
     list_cols_md: 2
     list_cols_lg: 3
     toc:
