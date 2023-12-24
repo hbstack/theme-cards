@@ -62,6 +62,7 @@ github.com/hbstack/docs v0.11.2 h1:7pR+5IdNQgO8wMDZsBCd5ZGvMyNB5B+Y8ZYPmVCd1i0=
 github.com/hbstack/docs v0.11.2/go.mod h1:lhMS1RUegW09gWtwJNr9svMjuzREAaFB1OFwusWoZEg=
 github.com/hbstack/docs v0.11.3/go.mod h1:r5PqcXIcXb91kEGMrczPPcKYNJou+u/UvEcWHu7bSvo=
 github.com/hbstack/docs v0.11.4/go.mod h1:Lmw+6O3fOIrkCBqAYYGgRCCn6iK4Jk3KsftN7KEFO7o=
+github.com/hbstack/docs v0.11.5/go.mod h1:scQd01bWyOnI9eIPhEihRFi/fjwSKuPVafGEXuLKSLI=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9 h1:znf/33KfQFZXOXVKezdksy/euM0FDnoNKeKSyw3SwCk=
 github.com/hbstack/docs/modules/breadcrumb v0.1.9/go.mod h1:vpQYRcZmRTqYpVb7x7sOgw13MxBuNgUt82wQDz6ZtZU=
 github.com/hbstack/docs/modules/content-panel v0.1.8 h1:jdvI05iKD3awcCFx9UoGNh7DfNK60jWLJjVAspqEH+o=
@@ -92,6 +93,7 @@ github.com/hbstack/google-fonts v0.1.1/go.mod h1:4Xn7/i4MRPs0wDuYTIvCJvNfAMIC5vM
 github.com/hbstack/hb v0.7.2 h1:usdoBKt4ubow1i4ESJTkQZydattjLOJfZ5nlaJK+zP4=
 github.com/hbstack/hb v0.7.2/go.mod h1:ZOmDVAInLN3kwl/uoggHvj9e7dU5UFIcvswIGbNdq4M=
 github.com/hbstack/hb v0.8.0/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
+github.com/hbstack/hb v0.8.1/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
 github.com/hbstack/header v0.12.2 h1:doFT82RLCaSGedMTtVuERMjE97aG6aNEqvTu9atuyYE=
 github.com/hbstack/header v0.12.2/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcEcN4ynTg=
 github.com/hbstack/header v0.12.3/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcEcN4ynTg=
