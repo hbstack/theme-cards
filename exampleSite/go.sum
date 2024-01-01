@@ -105,6 +105,7 @@ github.com/hbstack/header/modules/language-picker v0.1.23 h1:apumx/b8JvN3BmDH4Gw
 github.com/hbstack/header/modules/language-picker v0.1.23/go.mod h1:rLN2zbcsGXWsyOfVedSEZk8V7N4/Nk/iyuVm8wjBkuM=
 github.com/hbstack/header/modules/search v0.1.33 h1:5r9qFZCOoZeuWM5HTcSwDfwy0kJzMrUp5E10T64ewYU=
 github.com/hbstack/header/modules/search v0.1.33/go.mod h1:KJsndL1ZmVgUrIOEOPcfvfegLqL7lSTbVQhaTwTqbxg=
+github.com/hbstack/header/modules/search v0.1.34/go.mod h1:t3c6zjQW2hLOw0Js9yHVw/e47Fo8M3Wx9RHC8pZkR8g=
 github.com/hbstack/header/modules/socials v0.1.28 h1:C7E+aBhFdoLUgzlYtj5d2/Lxqbv6jGH0SMwyffTnk8E=
 github.com/hbstack/header/modules/socials v0.1.28/go.mod h1:N3tqnzmImktAMRJlwEBp7CX9zb2xrc4nyV4eSjNmGNM=
 github.com/hbstack/header/modules/theme-toggle v0.3.1 h1:9DsMhi64o9D2RO94eiEcx1AAcvw8rBP3N1Hmiwaaqfs=
