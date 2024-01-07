@@ -21,7 +21,7 @@ require (
 	github.com/hugomods/icons/vendors/simple-icons v1.0.26 // indirect
 	github.com/hugomods/images v0.8.3 // indirect
 	github.com/hugomods/seo/modules/base v0.1.0 // indirect
-	github.com/hugomods/simple-icons v10.4.0+incompatible // indirect
+	github.com/hugomods/simple-icons v11.0.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.2+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
