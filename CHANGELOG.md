@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/hbstack/theme-cards/compare/v0.1.0...v0.1.1) (2024-01-09)
+
+
+### Styles 🎨
+
+* remove margin-bottom for last child of hb-module ([2f65cc8](https://github.com/hbstack/theme-cards/commit/2f65cc8d5a1252f95fb0231ff4eac51618d9fec2))
+
 ## [0.1.0](https://github.com/hbstack/theme-cards/compare/v0.0.1...v0.1.0) (2023-12-05)
 
 
