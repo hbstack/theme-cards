@@ -7,6 +7,10 @@
   &:hover {
     @extend .shadow-sm;
   }
+
+  > :last-child {
+    margin-bottom: 0 !important;
+  }
 }
 
 .hb-footer {
