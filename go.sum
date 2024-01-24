@@ -29,6 +29,7 @@ github.com/hbstack/header v0.12.3/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcE
 github.com/hbstack/header v0.12.4/go.mod h1:4XKdpn0KyL9VN8tFRsVqU8AF5eOM1Gw5+vvhXlsF/X0=
 github.com/hbstack/header v0.12.5/go.mod h1:qJ6oP59zCAmkKnFALrEOBo92dnAmxCkYeG1uFjmVMj8=
 github.com/hbstack/header v0.12.6/go.mod h1:7veV7tRH43rdYf4OIhoiy473Y/qoyeAJhglGTO+egKE=
+github.com/hbstack/header v0.12.7/go.mod h1:UmRz21kEHDZjFA+TGjWSM/68WL8xHK15CmNgWBM9BEM=
 github.com/hbstack/pagination v0.6.0 h1:sUirQEsW9ZmRU0GxlsE2pN7ZYghI4aqJYgfWAgd+iys=
 github.com/hbstack/pagination v0.6.0/go.mod h1:xAvZzN0UZW0j/IAUipcRIIQ7P9Sq44M3k47HaHy7OuU=
 github.com/hbstack/socials v0.9.0 h1:Lru22qqydHTcBJkkYlsk0Dl91IuZPLWBpr+BQB6d87U=
