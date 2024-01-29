@@ -1,9 +1,9 @@
 # HB Cards Theme
 
-[![Used By](https://img.shields.io/badge/dynamic/json?color=success&label=used+by&query=repositories_humanize&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/github/dependents/hbstack/theme-cards)](https://github.com/hbstack/theme-cards/network/dependents)
+[![Used By](https://badgen.net/github/dependents-repo/hbstack/theme-cards?label=used%20by)](https://github.com/hbstack/theme-cards/network/dependents)
 ![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/hugo/modules/github.com/hbstack/theme-cards)
-[![License](https://img.shields.io/github/license/hbstack/theme-cards?style=flat-square)](https://github.com/hbstack/theme-cards/blob/main/LICENSE)
-[![Version](https://img.shields.io/github/v/tag/hbstack/theme-cards?label=version&style=flat-square)](https://github.com/hbstack/theme-cards/tags)
+[![License](https://badgen.net/github/license/hbstack/theme-cards)](https://github.com/hbstack/theme-cards/blob/main/LICENSE)
+[![Version](https://badgen.net/github/tag/hbstack/theme-cards)](https://github.com/hbstack/theme-cards/tags)
 
 The cards theme of [HB Framework](https://hbstack.dev/), live demo: https://theme-cards.hbstack.dev/.
 
