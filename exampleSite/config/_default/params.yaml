@@ -94,6 +94,12 @@ hb:
       repo: hbstack/theme-cards
       repo_id: R_kgDOK1LmSQ
       category_id: DIC_kwDOK1LmSc4CbdiM
+    social_share_buttons:
+      alignment: center
+      media:
+        - twitter
+        - facebook
+        - linkedin
   content_panel:
     repo:
       service: github # github or gitlab.

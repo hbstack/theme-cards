@@ -49,6 +49,9 @@ imports:
   # docs content panel
   - path: github.com/hbstack/docs/modules/content-panel
 
+  # docs social share buttons
+  - path: github.com/hbstack/docs/modules/social-share-buttons
+
   # other modules
   # - path: github.com/hugomods/google-analytics
   # - path: github.com/hugomods/google-adsense
