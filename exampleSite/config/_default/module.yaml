@@ -35,6 +35,9 @@ imports:
   # blog content panel
   - path: github.com/hbstack/blog/modules/content-panel
 
+  # blog social share buttons
+  - path: github.com/hbstack/blog/modules/social-share-buttons
+
   # docs comments engine
   - path: github.com/hbstack/docs/modules/giscus
   # - path: github.com/hbstack/docs/modules/utterances

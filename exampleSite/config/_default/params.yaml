@@ -26,6 +26,13 @@ hb:
     list_cols_lg: 3
     toc:
       position: end
+    social_share_buttons:
+      alignment: center
+      media:
+        - twitter
+        - facebook
+        - linkedin
+        - sinaweibo
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
       width: .35 # the width of sidebar.
