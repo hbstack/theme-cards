@@ -9,7 +9,7 @@ require (
 	github.com/hbstack/blog v0.24.3 // indirect
 	github.com/hbstack/carousel v0.2.4 // indirect
 	github.com/hbstack/footer v0.2.10 // indirect
-	github.com/hbstack/hb v0.9.2 // indirect
+	github.com/hbstack/hb v0.10.0 // indirect
 	github.com/hbstack/header v0.12.7 // indirect
 	github.com/hbstack/pagination v0.6.0 // indirect
 	github.com/hbstack/socials v0.9.0 // indirect
