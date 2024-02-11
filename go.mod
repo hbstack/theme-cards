@@ -16,7 +16,7 @@ require (
 	github.com/hugomods/base v0.4.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.2.3 // indirect
-	github.com/hugomods/icons v0.6.1 // indirect
+	github.com/hugomods/icons v0.6.2 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.3 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.28 // indirect
 	github.com/hugomods/images v0.9.0 // indirect
