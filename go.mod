@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/base v0.4.1 // indirect
-	github.com/hbstack/blog v0.24.3 // indirect
+	github.com/hbstack/blog v0.25.0 // indirect
 	github.com/hbstack/carousel v0.2.4 // indirect
 	github.com/hbstack/footer v0.2.10 // indirect
 	github.com/hbstack/hb v0.11.0 // indirect
