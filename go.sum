@@ -24,6 +24,7 @@ github.com/hbstack/footer v0.2.8/go.mod h1:9lJgQPtlefBNs/nrdt6Qr/hF5CjvymwkUVBun
 github.com/hbstack/footer v0.2.9/go.mod h1:9lJgQPtlefBNs/nrdt6Qr/hF5CjvymwkUVBunjdgrcg=
 github.com/hbstack/footer v0.2.10/go.mod h1:z779/sE1prEcABuz4RjhSwA8QkFLkmf+xv/5yM3BtPc=
 github.com/hbstack/footer v0.3.0/go.mod h1:mYITqQNk4PJWxPciS4/r0bRuB3cDDOXZ3dGwIHuYTME=
+github.com/hbstack/footer v0.4.0/go.mod h1:5eB1ETT2WO5pNHObzRpFdwzrcQnHDGoBUOi+gtX/fa4=
 github.com/hbstack/hb v0.7.2 h1:usdoBKt4ubow1i4ESJTkQZydattjLOJfZ5nlaJK+zP4=
 github.com/hbstack/hb v0.7.2/go.mod h1:ZOmDVAInLN3kwl/uoggHvj9e7dU5UFIcvswIGbNdq4M=
 github.com/hbstack/hb v0.8.0/go.mod h1:Z+gW6UsRwuivPcqqEb67h7vSQwSCWOr7KxNXkhcsEzM=
