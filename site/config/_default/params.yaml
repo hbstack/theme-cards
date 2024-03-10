@@ -1,0 +1,160 @@
+description: The cards theme template of HB (Hugo Bootstrap) Framework.
+
+hb:
+  # js_bundle_name: main # the JS bundle name.
+  # css_bundle_name: main # the CSS bundle name.
+  full_width: false # when true, the layout takes full width globally.
+  header:
+    brand: HB # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      github: hbstack
+      # twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
+  footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      _color: true # when false, remove the color of social icons.
+      github: hbstack
+      twitter: razonyang
+      rss: true
+      mastodon: https://techhub.social/@hbstack
+  blog:
+    list_cols_md: 2
+    list_cols_lg: 3
+    toc:
+      position: end
+    social_share_buttons:
+      alignment: center
+      media:
+        - twitter
+        - facebook
+        - linkedin
+        - sinaweibo
+    sidebar:
+      sticky: true # set it to false to not stick the sidebar.
+      width: .35 # the width of sidebar.
+      position: start # the sidebar position: start (left) or end (right).
+      profile:
+        # title: Profile title other than site title.
+        # description: Profile description other than site description.
+        avatar_size: 100
+        company: COMPANY
+        location: Earth
+        socials:
+          github: hbstack
+          mastodon: https://techhub.social/@hbstack
+          rss: true
+      posts:
+        recent_count: 5 # the number of recent posts.
+        featured_count: 5 # the number of featured posts.
+        style: pills # pills, tabs or underline.
+        list_style: slide # slide or vertical.
+      taxonomies:
+        count: true # whether to show the number of posts associated to the item.
+        limit: 10 # the maximum number of the item.
+        style: pills # pills, tabs or underline.
+        separate: false # whether to separate into mutliple sections.
+        authors:
+          disable: false # whether to disable this taxonomy.
+          weight: 1 # the weight of this taxonomy, lower gets higher priority.
+          count: false # override the global count setting.
+          limit: 5 # override the global limit setting.
+        categories:
+          disable: false
+          weight: 3
+        series:
+          disable: false
+          weight: 2
+        tags:
+          disable: false
+          weight: 4
+          limit: 20
+          # title: Popular Tags # override the title.
+    paginate: 12 # paginate.
+    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    # post_thumbnail: false # whether to show the thumbnails.
+    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    home: # homepage settings.
+      # taxonomies: false # remove the taxonomies stat from the homepage.
+      featured_posts: 5 # the number of the featured posts, 0 means disabled.
+      pinned_posts_position: "list"
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+        - news
+    giscus:
+      repo: hbstack/theme-cards
+      repo_id: R_kgDOK1LmSQ
+      category_id: DIC_kwDOK1LmSc4CbdiM
+  docs:
+    giscus:
+      repo: hbstack/theme-cards
+      repo_id: R_kgDOK1LmSQ
+      category_id: DIC_kwDOK1LmSc4CbdiM
+    social_share_buttons:
+      alignment: center
+      media:
+        - twitter
+        - facebook
+        - linkedin
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: hbstack/theme-cards
+      branch: main
+      subpath: exampleSite
+  # gallery:
+  #   thumbnail_size: "x640"
+  # google_fonts:
+    # families:
+      # - name: Lato
+
+seo:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
+    icon: images/logo.png # use logo as favicon.
+
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+pwa:
+  debug: false
+  manifest:
+    background_color: '#712cf9'
+    theme_color: '#712cf9'
+    short_name: 'HB Theme'
+
+# see https://hugomods.com/search/configurations/.
+search:
+  stall_threshold: 300
+  min_match_char_length: 2
+  case_sensitive: false
+  # shortcut_search: ["/"]
+
+mermaid:
+  # replace it with other CDNs or self-hosted URLs.
+  js_url: https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
+        hb-blog-sidebar:
+          cacheable: true
+          weight: 4
+    # change the order of sidebar modules.
+    hb-blog-sidebar-taxonomies:
+      hooks:
+        hb-blog-sidebar:
+          weight: 3
+    hb-blog-sidebar-posts:
+      hooks:
+        hb-blog-sidebar:
+          weight: 2

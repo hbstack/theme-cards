@@ -1,0 +1,82 @@
+main:
+  - identifier: blog
+    name: 博客
+    weight: 4
+    params:
+      icon:
+        vendor: fas
+        name: blog
+
+  - name: 支持
+    identifier: support
+    weight: 100
+    url: https://github.com/hbstack
+    params:
+      header: HB 支持社区。
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+  - name: 文档
+    identifier: support-docs
+    parent: support
+    url: https://hbstack.dev/
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: book
+      description: 使用文档。
+
+  - name: GitHub
+    parent: support
+    url: https://github.com/hbstack
+    weight: 2
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: 代码仓库。
+
+  - name: 讨论
+    parent: support
+    url: https://github.com/hbstack/discussions
+    weight: 3
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: 提问题和分享你的想法。
+
+  - name: Bug 反馈
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bug
+        color: red
+      description: 向我们反馈一个错误或问题。
+
+  - name: 功能提议
+    parent: support
+    url: https://github.com/hbstack/issues/new
+    weight: 5
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: lightbulb
+        color: orange
+      description: 建议新的或需要改进的功能。
+  
+  - name: Mastodon
+    parent: support
+    url: https://techhub.social/@hbstack
+    weight: 6
+    params:
+      icon:
+        vendor: simple
+        name: mastodon
+      description: 关注我们以获取最近消息。

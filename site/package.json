@@ -1,0 +1,25 @@
+{
+  "name": "hb-theme-cards",
+  "description": "The cards theme of [HB Framework](https://hbstack.dev/).",
+  "scripts": {
+    "dev": "hugo server --gc -D",
+    "prod": "hugo server --gc --disableFastRender --renderToDisk --minify -e production -p 1314"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstack/theme-cards.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstack/theme-cards/issues"
+  },
+  "homepage": "https://github.com/hbstack/theme-cards#readme",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.14",
+    "decap-server": "^3.0.1",
+    "postcss-cli": "^11.0.0",
+    "rtlcss": "^4.0.0"
+  }
+}
