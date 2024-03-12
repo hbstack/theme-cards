@@ -224,6 +224,7 @@ github.com/hugomods/base v0.4.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLO
 github.com/hugomods/base v0.4.1 h1:Wadju82kW7m60sA1FIECB2HvYboUOBUL6rCypMuTI74=
 github.com/hugomods/base v0.4.1/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.4.2/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
+github.com/hugomods/base v0.5.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/bootstrap v0.14.0 h1:G/TnHqH5UVjUJDkLGxmxAPInjCWtAFGt+R76a8TF76U=
 github.com/hugomods/bootstrap v0.14.0/go.mod h1:xibujTCci1NMBmQ8jzvxAYx2bKKQVWaoaZYNcnx6tGQ=
 github.com/hugomods/bootstrap v0.15.0/go.mod h1:uieaNCwD8ajNXjXmvCGoV0DluFraEn2h8WzXhwtmkig=
