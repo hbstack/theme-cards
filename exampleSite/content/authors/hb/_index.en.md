@@ -1,6 +1,6 @@
 ---
 title: HB Framework Authors
-description: HB Framework codes and documentations contributors
+description: Code and documentation contributors of HB Framework.
 images:
   - https://avatars.githubusercontent.com/u/127904984?s=200&v=4
 socials:
