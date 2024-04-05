@@ -110,5 +110,5 @@ npm run dev
 
 1. Tweak Configurations, such as `baseURL`, `giscus.*` and so on.
 2. Remove testing content.
-3. Read the [documentations](https://hbstack.dev/).
+3. Read the [documentation](https://hbstack.dev/).
 4. Find more [modules](https://hbstack.dev/modules/).
