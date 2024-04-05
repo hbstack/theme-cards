@@ -21,7 +21,7 @@ The cards theme of [HB Framework](https://hbstack.dev/), live demo: https://them
 ## Features
 
 - **Fast** and **SEO** friendly: [PageSpeed Insight](https://pagespeed.web.dev/analysis?url=https://theme-cards.hbstack.dev/) scored perfect :100: in all four metrics on mobile and desktop.
-- **Multi-purpose**: blog, project documentations, digital gardens, landing pages and so on.
+- **Multi-purpose**: blog, project documentation, digital gardens, landing pages and so on.
 - **Responsive**: mobile first, built on top of Bootstrap v5.3.
 - :ice_cube: **Modular** and **flexible**: extend features via various modules.
 - :first_quarter_moon: **Dark mode**: light, dark or auto (follow system).
