@@ -7,7 +7,7 @@
 
 The cards theme of [HB Framework](https://hbstack.dev/), live demo: https://theme-cards.hbstack.dev/.
 
-## Documentations
+## Documentation
 
 | English | 简体中文 |
 | --- | --- |
