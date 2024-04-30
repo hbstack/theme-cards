@@ -149,6 +149,7 @@ github.com/hbstack/footer v0.4.0/go.mod h1:5eB1ETT2WO5pNHObzRpFdwzrcQnHDGoBUOi+g
 github.com/hbstack/footer v0.4.1/go.mod h1:EvignAN0ShrWDbPAlf9+lrRfJSha9G4wYPDUed4wPzg=
 github.com/hbstack/footer/modules/socials v0.2.5 h1:VmIBdRc8+ujwOjurcltNW0yU7rX2CzectEtmhgy9I6Y=
 github.com/hbstack/footer/modules/socials v0.2.5/go.mod h1:bggKfxJiylFYCG3AP3cKkhNBNtQrYnZzU9S5UBJ3gu8=
+github.com/hbstack/footer/modules/socials v0.3.0/go.mod h1:clVl77mC1//pSZuHEr8aHqDk8Ylggk+I+XOQoBiim8w=
 github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
 github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7yw9h3EE=
 github.com/hbstack/google-fonts v0.1.0 h1:dYX0QrP3KBT6rzsr7G89Tpp9krNhbgq19qki1Upum6A=
