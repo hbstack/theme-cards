@@ -90,6 +90,7 @@ github.com/hbstack/bootstrap v0.2.0 h1:pHZ1KQ0HHwhHFbgzZ401kMSxkS7Tg0I/X002SD6WH
 github.com/hbstack/bootstrap v0.2.0/go.mod h1:BqrUe89qxDkc8kxJ4iaK/XZxzZrWhlGloOFJfcNxAUU=
 github.com/hbstack/bootstrap v0.2.1 h1:q8V9pBQPPfLQQWWHadOMoSomNjvUq0SGZMXdNDnga4U=
 github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
+github.com/hbstack/bootstrap v0.2.2/go.mod h1:2Qd2g72fKgje8fCMSaz8KlKIv60c6PAak59Zg2FJHs0=
 github.com/hbstack/breadcrumb v0.5.1 h1:bhWETQbjD9Rb5jX29NiCX4mTX+hSsegJqcGH6xgA6i0=
 github.com/hbstack/breadcrumb v0.5.1/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
 github.com/hbstack/breadcrumb v0.5.2/go.mod h1:ToD1n+vdG4bfhyresQV7aoV3OUuNk4huw2hFu+0xdfc=
