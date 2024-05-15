@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.3.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.7.1 // indirect
 	github.com/hbstack/blog/modules/sidebar/profile v1.2.0 // indirect
-	github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0 // indirect
+	github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.1 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.1.20 // indirect
 	github.com/hbstack/bootstrap v0.2.2 // indirect
