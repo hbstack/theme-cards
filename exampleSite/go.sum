@@ -226,6 +226,7 @@ github.com/hbstack/header/modules/theme-toggle v0.4.3/go.mod h1:RnAxM/75D5uPWQ/9
 github.com/hbstack/header/modules/theme-toggle v0.4.4 h1:2abRpCpNxlL5k8KqnFMDvyUwaVo9s+uyRirxXf6mOD8=
 github.com/hbstack/header/modules/theme-toggle v0.4.4/go.mod h1:s0wry+fpt4OJO49dwHSaDW2aux7SZ+zvX5t6wlWSw5k=
 github.com/hbstack/header/modules/theme-toggle v0.5.0/go.mod h1:UDWiCLYAWmna+M4Uk5IDUgV4+zK1nvHUZiYvVfTj1YE=
+github.com/hbstack/header/modules/theme-toggle v0.5.1/go.mod h1:EHXmyYT45ZhcUIXdL45lRG3HpxodbHSr4KpD9Ynhzfg=
 github.com/hbstack/heading-sign v0.1.3 h1:bkyBAwTETrbLqPBM89EuSscgLt2MOrmEPSeooeR0Jfc=
 github.com/hbstack/heading-sign v0.1.3/go.mod h1:uR6DdjYDoLDFanc8kSglEe/08GyNyQBmyNEJ6Z1KRAg=
 github.com/hbstack/heading-sign v0.2.0 h1:yXKZQEjPn/+jKyQxCJh34X+wXbiG4Bnr1VVF6lgMhi8=
