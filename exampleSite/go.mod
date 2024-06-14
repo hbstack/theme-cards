@@ -26,7 +26,7 @@ require (
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
 	github.com/hbstack/blog/modules/toc-scrollspy v0.2.0 // indirect
 	github.com/hbstack/bootstrap v0.2.2 // indirect
-	github.com/hbstack/breadcrumb v0.7.1 // indirect
+	github.com/hbstack/breadcrumb v0.7.2 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.10.1 // indirect
