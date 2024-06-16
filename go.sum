@@ -49,6 +49,7 @@ github.com/hbstack/blog v0.35.4/go.mod h1:noV38aLO4c2nWZPUYgRyvjIX4seSTToaRt4kKI
 github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L4=
 github.com/hbstack/carousel v0.2.4/go.mod h1:AchKlXiqYNZouE3Ee/VSSQle2FUZV5CJgTnPBFI7Gj0=
 github.com/hbstack/carousel v0.2.5/go.mod h1:37ffr9r5ilAS4b7KrplyCeOcTPmFd2PMygLo+VPe3oY=
+github.com/hbstack/carousel v0.2.6/go.mod h1:XWL7LkRRjyy4g/NF83cnLi49NpWBgW554HGb52lvrzc=
 github.com/hbstack/footer v0.2.8 h1:Wh8PaZM7hGFOlDjeEJg37jekf6l6YF+wazSLbjilWHw=
 github.com/hbstack/footer v0.2.8/go.mod h1:9lJgQPtlefBNs/nrdt6Qr/hF5CjvymwkUVBunjdgrcg=
 github.com/hbstack/footer v0.2.9/go.mod h1:9lJgQPtlefBNs/nrdt6Qr/hF5CjvymwkUVBunjdgrcg=
