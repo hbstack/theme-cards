@@ -38,7 +38,7 @@ require (
 	github.com/hbstack/docs/modules/giscus v0.1.11 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
 	github.com/hbstack/docs/modules/social-share-buttons v0.1.0 // indirect
-	github.com/hbstack/docs/modules/toc-scrollspy v0.1.7 // indirect
+	github.com/hbstack/docs/modules/toc-scrollspy v0.1.8 // indirect
 	github.com/hbstack/featured-image v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
