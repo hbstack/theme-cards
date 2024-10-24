@@ -5,7 +5,7 @@ go 1.19
 replace github.com/hbstack/theme-cards => ../
 
 require (
-	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
+	github.com/GoogleChrome/workbox v7.2.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
