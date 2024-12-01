@@ -202,6 +202,7 @@ github.com/hugomods/icons/vendors/simple-icons v1.0.57/go.mod h1:QNKkX7+q1fzI51x
 github.com/hugomods/icons/vendors/simple-icons v1.0.58/go.mod h1:FNv3PHfJQi+Ri6tPkwjmpoCb437VqyWZdrLxO6VfmTk=
 github.com/hugomods/icons/vendors/simple-icons v1.0.59/go.mod h1:orl9o8nQFUF8h4m0qS+ympS8btJTaTxx4ZsXHSvXzHw=
 github.com/hugomods/icons/vendors/simple-icons v1.0.60/go.mod h1:/skqfU1fJ+WnPV8nX3sP2yTBJc7PLMdciMp8qNXDKYU=
+github.com/hugomods/icons/vendors/simple-icons v1.0.61/go.mod h1:x5TsryarJP5xAGVAXiZCa/7tP8+b22n5BbHfxtjX2uc=
 github.com/hugomods/images v0.8.3 h1:tvccLmr4ydDw2rWtfRJUuXbDMYzoK9eB2HRTfVFi8to=
 github.com/hugomods/images v0.8.3/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/hugomods/images v0.8.4/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
@@ -256,6 +257,7 @@ github.com/hugomods/simple-icons v13.14.0+incompatible/go.mod h1:1Lvymol7AMVY7ji
 github.com/hugomods/simple-icons v13.14.1+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v13.15.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/simple-icons v13.18.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v13.19.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=
 github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
