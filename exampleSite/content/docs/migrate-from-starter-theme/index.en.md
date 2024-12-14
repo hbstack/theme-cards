@@ -38,7 +38,7 @@ You can migrate to cards theme from the [starter theme](https://github.com/hbsta
 
 {{< bs/alert danger >}}
 {{< markdownify >}}
-You'll ve to put the module `github.com/hbstack/theme-cards` on the ___top___, to make sure that the cards theme gets higher priority.
+You'll have to put the module `github.com/hbstack/theme-cards` on the ___top___, to make sure that the cards theme gets higher priority.
 {{< /markdownify >}}
 {{< /bs/alert >}}
 
@@ -50,7 +50,7 @@ module:
 
 ## Tweak Parameters
 
-To make the carousel to take whole row on homepage, you'll need to tweak the position of pinned posts.
+To make the carousel take up a whole row on the homepage, you'll need to tweak the position of pinned posts.
 
 {{< bs/config-toggle "params" >}}
 hb:
