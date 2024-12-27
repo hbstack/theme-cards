@@ -130,6 +130,7 @@ github.com/hbstack/socials v0.15.0/go.mod h1:Bu1TdfuxLKtpEImsmuvB8OwbYJaGzOriQbO
 github.com/hbstack/socials v0.16.0/go.mod h1:9pfExMNoBMnQ0JV2ODURqUQsEC/HlgUo9b3jXdrHNM4=
 github.com/hbstack/socials v0.17.0/go.mod h1:bGfRrGxVWfvwseOzJ+13vHhHpZ+e+f2z8k4ypPBhH10=
 github.com/hbstack/socials v0.17.1/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
+github.com/hbstack/socials v0.17.2/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
 github.com/hugomods/base v0.4.0 h1:jzBIJpqDx8aLAlNe/zF1xbefu1XYxumZc39tOO0ZjSw=
 github.com/hugomods/base v0.4.0/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
 github.com/hugomods/base v0.4.1/go.mod h1:hnWCPbVxuhXBwdFax3mmbMlWKmIo/7OP36MCLOyHtT4=
