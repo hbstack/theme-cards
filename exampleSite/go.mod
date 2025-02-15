@@ -61,7 +61,7 @@ require (
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.0 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
-	github.com/hbstack/socials v0.17.2 // indirect
+	github.com/hbstack/socials v0.18.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.1 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
