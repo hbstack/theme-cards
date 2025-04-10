@@ -15,6 +15,7 @@ github.com/KaTeX/KaTeX v0.16.18/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAz
 github.com/KaTeX/KaTeX v0.16.19/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.20/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/KaTeX/KaTeX v0.16.21/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.16.22/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
