@@ -67,7 +67,7 @@ require (
 	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.2.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.19 // indirect
-	github.com/hugomods/base v0.7.2 // indirect
+	github.com/hugomods/base v0.7.3 // indirect
 	github.com/hugomods/bootstrap v0.23.0 // indirect
 	github.com/hugomods/code-block-panel v0.8.0 // indirect
 	github.com/hugomods/font-awesome v6.7.1+incompatible // indirect
