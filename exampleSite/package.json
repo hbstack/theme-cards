@@ -17,7 +17,7 @@
   "homepage": "https://github.com/hbstack/theme-cards#readme",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^7.0.0",
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.21",
     "decap-server": "^3.0.1",
     "postcss-cli": "^11.0.0",
     "rtlcss": "^4.0.0"
