@@ -465,6 +465,7 @@ github.com/henrygd/bigger-picture v1.1.17/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxp
 github.com/henrygd/bigger-picture v1.1.18/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
 github.com/henrygd/bigger-picture v1.1.19 h1:fv3S1wlW5L9XF01wOHGZmwPn3vMNgQOwwYMhTTHhHic=
 github.com/henrygd/bigger-picture v1.1.19/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
+github.com/henrygd/bigger-picture v1.1.20/go.mod h1:LayqbjDNNsZH+ZXklmjBe5T02qxpH9Cah/ygAraOBIk=
 github.com/hugomods/ascii v0.1.0 h1:c7E0nV3z7PiNchGXkIuFBWsKym17k0iOo+o6Bp6bw30=
 github.com/hugomods/ascii v0.1.0/go.mod h1:vvC2YaCuNBWl/8F/mfk9vMxVpwXluH80cROV9TDpmLk=
 github.com/hugomods/base v0.4.0 h1:jzBIJpqDx8aLAlNe/zF1xbefu1XYxumZc39tOO0ZjSw=
