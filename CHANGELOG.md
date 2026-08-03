@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/hbstack/theme-cards/compare/v0.1.1...v0.1.2) (2025-10-14)
+
+
+### Documentation 📝
+
+* fixed grammar & spelling ([#594](https://github.com/hbstack/theme-cards/issues/594)) ([8aea454](https://github.com/hbstack/theme-cards/commit/8aea454f6bf1a7997b3d6a4d15c9d3cae8a291f2))
+
 ## [0.1.1](https://github.com/hbstack/theme-cards/compare/v0.1.0...v0.1.1) (2024-01-09)
 
 
